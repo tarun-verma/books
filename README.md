@@ -1,7 +1,4 @@
 # Books
-List of academic texts I'm either reading or planning on doing so.
-
-For non-academic stuff, check out my [GoodReads](https://www.goodreads.com/user/show/36977935-tarun-verma).
 ### Reading
 - [*Reverse Engineering for Beginners*](http://beginners.re/), D. Yurichev (Quite useful, but a bit verbose at times.)
 - [*Reverse Engineering Code with IDA Pro*](http://www.amazon.com/Reverse-Engineering-Code-IDA-Pro/dp/159749237X), D. Kaminsky 
